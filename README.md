@@ -1,2 +1,4 @@
-# app
-This is a webapp to compliment the currbet desktop-only app of Fritzing
+See the branch gh-pages for full description
+
+# To contributers
+**DO NOT** upload anything to the main branch! Go to gh-pages instead
