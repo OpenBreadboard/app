@@ -1,0 +1,24 @@
+{
+  "name": "OpenBreadboard",
+  "short_name": "OpenBreadboard",
+  "description": "A web app to compliment Fritzing",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/openbreadboard.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/openbreadboard.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
