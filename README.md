@@ -5,3 +5,6 @@ This site is meant to be a web-compliment to Fritzing
 
 # Disclaimer
 Currently, this site has no affiliation with Fritzing
+
+# Acknowledgements
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/Qt_logo_neon_2022.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="100px">
