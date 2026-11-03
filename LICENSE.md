@@ -1,7 +1,5 @@
 # GNU GENERAL PUBLIC LICENSE
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/GPLv3_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="150px" style="float:right"/>
-
 Version 3, 29 June 2007
 
 Copyright (C) 2007 Free Software Foundation, Inc.
