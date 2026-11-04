@@ -1,3 +1,18 @@
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('./sw.js')
+      .then((registration) => {
+        console.log('Service Worker successfully registered with scope:', registration.scope);
+      })
+      .catch((error) => {
+        console.log('Service Worker registration failed:', error);
+      });
+  });
+}
+
+// Your existing code to load the WASM file goes here
+// WebAssembly.instantiateStreaming(fetch('app.wasm'), importObject)...
+
 
 var OpenBreadboard_entry = (() => {
   var _scriptDir = typeof document !== 'undefined' && document.currentScript ? document.currentScript.src : undefined;
